@@ -1,5 +1,4 @@
 # **BIPED BOT**
-___
 
 ### Description
 ___
